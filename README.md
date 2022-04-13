@@ -1,3 +1,5 @@
-<h2>Hi there</h2> 👋
+Hello! My name is Charles and I'm a Front-End Developer that is based in Stockholm, Sweden. 
 
-I'm Charles, a Front-End Developer with over 8 years experience of HTML/CSS. I've recently decided to deepening my expertise in web development by studying Front-End Development at Medieinstitutet. This have expanded my knowledge in technologies such as Typescript, React, NodeJs, Express & MongoDB and much more.
+I'm currently studying frontend development at Medieinstitutet where I'm deepening my knowledge in Javascript framworks.
+
+On my spare time I like to be outside in nature, travel and listen to music.
