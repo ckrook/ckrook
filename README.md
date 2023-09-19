@@ -1,5 +1,8 @@
-Hello! My name is Charles and I'm a Front-End Developer that is based in Stockholm, Sweden.<br />
+Hello there! 👋 I'm Charles, a Front-End Developer hailing from the beautiful city of Stockholm, Sweden 🇸🇪.
 
-I'm currently studying frontend development at Medieinstitutet where I'm deepening my knowledge in Javascript framworks.
+🚀 On a mission to create pixel-perfect web experiences!
+🍳 Part-time chef, whipping up code and delicious dishes!
+🧗‍♂️ Climbing the coding and bouldering walls in my spare time!
+🌐 Navigating the digital wilderness with passion and precision!
 
-On my spare time I like to be outside in nature, travel and listen to music.
+Let's connect, collaborate, and code our way to greatness! 🌟
